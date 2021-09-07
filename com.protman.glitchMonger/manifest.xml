@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>com.protman.glitchMonger</Id>
+  <Version>0.666j</Version>
+  <Author>protman | protman@gmail.com</Author>
+  <Name>glitchMonger</Name>
+  <Category>misc</Category>
+  <Description>track randomizer/glitcher</Description>
+  <Homepage>http://prot.audio</Homepage>
+</RenoiseScriptingTool>
