@@ -1,9 +1,9 @@
-
 # glitchMonger
 glitchMonger Renoise tool
 
 **Pattern matrix section name prefixes:**
- - s_ : "seed" patterns r_ : patterns to fill with data from seed
+ - s_ : "seed" patterns
+ - r_ : patterns to fill with data from seed
    patterns
 
 **Track prefixes:**
